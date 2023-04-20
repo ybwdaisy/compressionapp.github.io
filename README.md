@@ -1,4 +1,4 @@
-[简体中文](https://github.com/ybwdaisy/media-compression-app/blob/main/README_CN.md)
+[简体中文](https://ybwdaisy.github.io/media-compression-app/README_CN)
 
 # Privacy Policy
 
