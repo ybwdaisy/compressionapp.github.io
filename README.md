@@ -1,3 +1,5 @@
+[简体中文](https://github.com/ybwdaisy/media-compression-app/blob/main/README_CN.md)
+
 # Privacy Policy
 
 Media Compression is a media compression tool designed for iOS and iPadOS.
