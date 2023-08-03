@@ -18,7 +18,7 @@ We reserve the right to address serious violations of these terms, including, bu
 
 ## Refund
 
-please [contact us](mailto: ybw_daisy@163.com) for your complaints first. However, developers are not responsible for refunds, you are encouraged to contact Apple Support Team directly, some information could be found [here](https://support.apple.com/en-us/HT204084).
+Please [contact us](mailto: ybw_daisy@163.com) for your complaints first. However, developers are not responsible for refunds, you are encouraged to contact Apple Support Team directly, some information could be found [here](https://support.apple.com/en-us/HT204084).
 
 ## Changes to This Terms of Service
 
@@ -26,4 +26,4 @@ We may update our Terms of Service from time to time. Thus, you are advised to r
 
 ## Contact us
 
-If you have any questions or suggestions regarding our Privacy Policy, please feel free to contact us at [ybw_daisy@163.com](mailto: ybw_daisy@163.com).
+If you have any questions or suggestions regarding our Terms of Use, please feel free to contact us at [ybw_daisy@163.com](mailto: ybw_daisy@163.com).
