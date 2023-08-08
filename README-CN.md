@@ -1,0 +1,1 @@
+Media Compression App [使用条款](https://ybwdaisy.github.io/media-compression-app/terms-of-use-cn) 和 [隐私政策](https://ybwdaisy.github.io/media-compression-app/privacy-policy-cn).

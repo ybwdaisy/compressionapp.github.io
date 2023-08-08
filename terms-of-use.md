@@ -1,4 +1,4 @@
-[简体中文](https://ybwdaisy.github.io/media-compression-app/TERMS_CN)
+[简体中文](https://ybwdaisy.github.io/media-compression-app/terms-of-use-cn)
 
 # Terms of Use
 
