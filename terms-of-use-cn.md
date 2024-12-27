@@ -16,7 +16,7 @@ Media Compression 高级版提供多种定价策略（按月订阅、按季订�
 
 ## 退款
 
-请优先考虑通过[联系我们](mailto: ybwdaisy@gmai.com)来解决您不满的地方。然而，应用的退款流程并不受开发者掌控，所以我们建议您联系 Apple 的支持团队来处理退款，您可以在[这里](https://support.apple.com/zh-cn/HT204084)找到相关信息。
+请优先考虑通过[联系我们](mailto: ybwdaisy@gmail.com)来解决您不满的地方。然而，应用的退款流程并不受开发者掌控，所以我们建议您联系 Apple 的支持团队来处理退款，您可以在[这里](https://support.apple.com/zh-cn/HT204084)找到相关信息。
 
 ## 本使用条款的变更
 
@@ -24,4 +24,4 @@ Media Compression 高级版提供多种定价策略（按月订阅、按季订�
 
 ## 联系我们
 
-如果您对我们的使用条款有任何疑问或建议，请随时通过 [ybwdaisy@gmai.com](mailto: ybwdaisy@gmai.com) 与我们联系。
+如果您对我们的使用条款有任何疑问或建议，请随时通过 [ybwdaisy@gmail.com](mailto: ybwdaisy@gmail.com) 与我们联系。
